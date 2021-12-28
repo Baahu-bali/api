@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@test.com",
+      "password": "anil@123",
+      "id": 1
+    },
+    {
+      "name": "raju",
+      "email": "raju@test.com",
+      "password": "raju@123",
+      "id": 2
+    },
+    {
+      "email": "x@demo.com",
+      "password": "xyz",
+      "name": "x",
+      "id": 3
+    },
+    {
+      "email": "x@demo.com",
+      "password": "xyz",
+      "name": "x",
+      "id": 4
+    },
+    {
+      "email": "cipher@demo.com",
+      "password": "cipher@123",
+      "name": "cipher",
+      "id": 5
+    },
+    {
+      "email": "ram@test.com",
+      "password": "ram@123",
+      "name": "ram",
+      "id": 6
+    },
+    {
+      "email": "peter@test.com",
+      "password": "peter@123",
+      "name": "peter",
+      "id": 7
+    },
+    {
+      "email": "piku@test.com",
+      "password": "piku123",
+      "name": "piku",
+      "id": 8
+    },
+    {
+      "email": "y@z.com",
+      "password": "z",
+      "name": "x",
+      "id": 9
+    },
+    {
+      "email": "loki@test.com",
+      "password": "loki@123",
+      "name": "loki",
+      "id": 10
+    }
+  ]
+}
